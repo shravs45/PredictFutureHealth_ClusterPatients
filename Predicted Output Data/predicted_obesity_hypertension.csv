@@ -1,0 +1,701 @@
+Actual BMI,Actual BP,Tobacco smoking status NHIS,Actual Condition diagnosed,Predicted BP,Predicted BMI,predicted Condition
+27.7,84.0,Never smoker,Chronic congestive heart failure (disorder),80.81959379509381,27.236748928848918,Others
+30.3,82.0,Never smoker,Hyperlipidemia,76.22422774078942,28.444229531608855,Others
+28.3,89.0,Former smoker,Anemia (disorder),78.9077380952381,28.93925,Others
+27.9,86.0,Never smoker,"Neoplasm of prostate,Carcinoma in situ of prostate (disorder)",80.6081188642033,28.309078035161424,Others
+27.9,78.0,Former smoker,Alzheimer's disease (disorder),76.00864285714287,28.69479523809523,Others
+30.5,82.0,Former smoker,"Neoplasm of prostate,Carcinoma in situ of prostate (disorder)",81.77896029134264,28.04069176101677,Others
+32.4,75.0,Never smoker,"Prediabetes,Anemia (disorder)",77.01614285714285,31.13629285714286,Body mass index 30+ - obesity (finding)
+27.6,82.0,Former smoker,Chronic congestive heart failure (disorder),78.58689682539682,31.508890476190476,Body mass index 30+ - obesity (finding)
+27.3,81.0,Never smoker,Hyperlipidemia,78.98065669964032,28.318042155061285,Others
+30.2,73.0,Former smoker,Osteoarthritis of knee,73.0872142857143,28.695396825396834,Others
+28.8,90.0,Never smoker,Hyperlipidemia,85.82283333333334,28.62328095238097,Others
+27.2,80.0,Never smoker,"Hypertriglyceridemia (disorder),Metabolic syndrome X (disorder)",78.98065669964032,28.318042155061285,Others
+29.3,83.0,Never smoker,Osteoarthritis of knee,79.64786507936506,28.776868614718616,Others
+29.6,86.0,Never smoker,Chronic congestive heart failure (disorder),84.4521388888889,28.663916666666672,Others
+30.6,72.0,Former smoker,Localized  primary osteoarthritis of the hand,82.56,29.70199999999998,Others
+29.3,81.0,Never smoker,Hyperlipidemia,79.19798080720453,27.652092228604733,Others
+27.5,71.0,Never smoker,"Hypertriglyceridemia (disorder),Metabolic syndrome X (disorder)",75.0197287157287,29.736032112332108,Others
+28.3,81.0,Never smoker,Hyperlipidemia,76.65614958897314,29.167202021589528,Others
+30.3,85.0,Former smoker,Impacted molars,81.66144458420762,28.36317722188622,Others
+30.5,81.0,Never smoker,Osteoporosis (disorder),79.94454753579754,29.01982787726979,Others
+28.0,86.0,Former smoker,Coronary Heart Disease,81.182,27.765199999999986,Others
+30.3,76.0,Never smoker,Hyperlipidemia,79.83,28.752200000000006,Others
+28.2,81.0,Former smoker,Alzheimer's disease (disorder),79.85257531503584,28.986790516509647,Others
+28.1,78.0,Never smoker,Osteoporosis (disorder),79.76199971000575,28.641420243487584,Others
+27.4,85.0,Never smoker,Atrial Fibrillation,82.49451866070864,28.275947361957968,Others
+27.7,83.0,Never smoker,Atrial Fibrillation,81.71173878898878,29.887316178266175,Others
+27.9,80.0,Never smoker,Diabetic retinopathy associated with type II diabetes mellitus (disorder),79.65457936507934,29.438456349206362,Others
+27.3,118.0,Former smoker,Stroke,113.48266666666666,27.61773333333334,Hypertension
+32.4,108.0,Never smoker,Anemia (disorder),108.05666666666666,29.801000000000045,Hypertension
+30.2,76.0,Former smoker,Prediabetes,80.41544927294929,29.15077336552335,Others
+27.9,85.0,Never smoker,Osteoporosis (disorder),79.76199971000575,28.641420243487584,Others
+19.9,109.0,Former smoker,Hypertension,82.97732575757574,28.946032142857153,Others
+27.5,85.0,Former smoker,Recurrent rectal polyp,82.93981529581532,28.983783333333335,Others
+27.8,83.0,Never smoker,Neoplasm of prostate,79.55259884559885,28.81344882154881,Others
+30.7,75.0,Former smoker,"Chronic congestive heart failure (disorder),Anemia (disorder)",78.66595605783107,28.938074562937047,Others
+19.8,115.0,Never smoker,Hypertension,104.40276709401707,24.33817633200134,Hypertension
+29.3,88.0,Never smoker,Atrial Fibrillation,83.87960317460318,29.02585476190476,Others
+30.9,85.0,Never smoker,Osteoarthritis of knee,81.66144458420762,28.36317722188622,Others
+30.3,89.0,Never smoker,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),80.64632867132866,28.623075264665903,Others
+29.1,85.0,Never smoker,Osteoarthritis of hip,77.99986904761906,26.878182422969193,Others
+30.6,74.0,Never smoker,"Chronic congestive heart failure (disorder),Anemia (disorder)",76.30151810645873,28.74318451002674,Others
+35.8,73.0,Never smoker,Chronic congestive heart failure (disorder),73.0,31.21699484126985,Body mass index 30+ - obesity (finding)
+30.3,82.0,Never smoker,Prediabetes,83.11685714285713,30.020538095238088,Body mass index 30+ - obesity (finding)
+30.5,77.5,Never smoker,"Osteoarthritis of knee,Anemia (disorder)",79.84218638999893,28.685341450053226,Others
+30.6,73.0,Former smoker,Coronary Heart Disease,75.72569047619051,30.338199999999997,Body mass index 30+ - obesity (finding)
+27.5,84.0,Former smoker,Chronic congestive heart failure (disorder),80.93269566718234,28.5153563710652,Others
+27.8,74.0,Former smoker,Hyperlipidemia,77.20600000000003,28.124190578212637,Others
+27.2,74.0,Former smoker,Coronary Heart Disease,76.4068777056277,28.901054761904756,Others
+29.1,75.0,Former smoker,Alzheimer's disease (disorder),80.37844816109859,28.20375150918684,Others
+27.6,94.0,Never smoker,Alzheimer's disease (disorder),99.03452380952382,27.74999999999997,Hypertension
+29.0,86.0,Never smoker,Hyperlipidemia,80.52018417693417,28.938928368853375,Others
+28.2,80.0,Never smoker,"Prediabetes,Anemia (disorder)",81.13513492063493,28.8577634920635,Others
+30.0,87.0,Never smoker,Body mass index 30+ - obesity (finding),79.94454753579754,29.01982787726979,Others
+29.1,83.0,Never smoker,"Prediabetes,Anemia (disorder)",77.62916666666666,31.99388333333333,Body mass index 30+ - obesity (finding)
+30.3,80.0,Never smoker,Body mass index 30+ - obesity (finding),80.44676034692107,29.691486894901608,Others
+39.4,79.0,Never smoker,Chronic congestive heart failure (disorder),81.23023366025963,29.80302526293478,Others
+30.5,81.0,Never smoker,Diabetic retinopathy associated with type II diabetes mellitus (disorder),82.02404588059,29.485469885669886,Others
+30.2,87.0,Former smoker,Anemia (disorder),80.29037225193107,29.597298265623266,Others
+28.2,86.0,Former smoker,Osteoporosis (disorder),77.71994191919191,29.749718931068927,Others
+28.2,84.0,Former smoker,Atrial Fibrillation,84.90572655122658,28.718054395604398,Others
+30.3,84.0,Never smoker,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),80.098,28.904200000000017,Others
+27.3,78.0,Never smoker,Hyperlipidemia,79.29171897546898,28.903909415584415,Others
+29.3,83.0,Former smoker,Anemia (disorder),83.45666269841269,30.507432142857137,Body mass index 30+ - obesity (finding)
+33.6,119.0,Never smoker,Hypertension,88.68647619047617,30.95210238095236,Body mass index 30+ - obesity (finding)
+29.5,70.0,Never smoker,Diabetic retinopathy associated with type II diabetes mellitus (disorder),79.94454753579754,29.01982787726979,Others
+30.2,78.0,Never smoker,Body mass index 30+ - obesity (finding),78.85,30.89524999999997,Body mass index 30+ - obesity (finding)
+30.3,86.0,Never smoker,Recurrent rectal polyp,78.53666666666665,29.227745238095252,Others
+27.8,79.0,Former smoker,Hyperlipidemia,77.77511363636363,29.79090476190476,Others
+27.5,115.0,Never smoker,Coronary Heart Disease,108.46657936507935,27.916733333333337,Hypertension
+30.4,83.0,Former smoker,Chronic congestive heart failure (disorder),81.22065313852814,29.112157539682524,Others
+28.3,81.0,Never smoker,Alzheimer's disease (disorder),80.45945933804757,28.729273460526407,Others
+30.1,80.0,Former smoker,Anemia (disorder),79.54142857142857,29.744999999999955,Others
+28.0,80.0,Never smoker,Osteoporosis (disorder),82.93424157406467,28.66135739025089,Others
+28.0,89.0,Former smoker,Prediabetes,82.49156024531025,29.150509018759013,Others
+30.6,77.0,Never smoker,Neuropathy due to type 2 diabetes mellitus (disorder),79.21020562770563,28.367309523809517,Others
+28.4,73.0,Never smoker,Anemia (disorder),77.72241955874739,29.036006964448962,Others
+33.6,76.0,Never smoker,Anemia (disorder),76.26011435786435,30.097650793650786,Body mass index 30+ - obesity (finding)
+27.4,83.0,Never smoker,Coronary Heart Disease,80.6081188642033,28.309078035161424,Others
+33.2,75.0,Never smoker,Anemia (disorder),79.41476806200338,28.73122848817849,Others
+30.3,74.0,Never smoker,Hyperlipidemia,79.15766666666666,28.61774761904763,Others
+30.1,80.0,Never smoker,Osteoarthritis of knee,80.44676034692107,29.691486894901608,Others
+26.1,89.0,Never smoker,Chronic congestive heart failure (disorder),87.53222222222223,27.636749999999974,Others
+30.1,82.0,Former smoker,Osteoporosis (disorder),85.63416666666666,29.0775714285714,Others
+30.3,82.0,Never smoker,Osteoarthritis of hip,81.43750000000001,29.829761904761927,Others
+30.0,79.0,Never smoker,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),79.14784884559887,28.899539826839828,Others
+27.8,74.0,Never smoker,Non-small cell lung cancer (disorder),77.7124206349206,31.455500000000015,Body mass index 30+ - obesity (finding)
+30.2,73.0,Never smoker,Atrial Fibrillation,77.516,29.376792857142863,Others
+28.9,84.0,Never smoker,Hypertriglyceridemia (disorder),80.1444647094616,28.75759516039945,Others
+30.2,79.0,Never smoker,"Chronic kidney disease stage 1 (disorder),Diabetic renal disease (disorder)",80.52018417693417,28.938928368853375,Others
+25.3,76.0,Never smoker,Polyp of colon,77.307,26.795666666666676,Others
+29.0,76.0,Former smoker,Chronic congestive heart failure (disorder),78.7350440552459,29.74953817049847,Others
+27.4,86.0,Never smoker,Hyperlipidemia,80.10454761904761,29.428013095238104,Others
+27.5,81.0,Never smoker,Anemia (disorder),78.86936369186368,28.904711113886105,Others
+30.4,84.0,Former smoker,Chronic intractable migraine without aura,80.93269566718234,28.5153563710652,Others
+30.1,85.0,Former smoker,Familial Alzheimer's disease of early onset (disorder),78.38612768440709,29.430920598845596,Others
+28.0,79.0,Never smoker,Alzheimer's disease (disorder),79.82664790764792,28.32935562770563,Others
+30.0,80.0,Never smoker,Localized  primary osteoarthritis of the hand,79.0425,28.869283333333343,Others
+30.5,88.0,Former smoker,Metabolic syndrome X (disorder),79.48072269113757,29.08575972862462,Others
+22.8,118.0,Never smoker,Osteoarthritis of hip,98.73252380952381,25.362895238095245,Hypertension
+30.0,78.0,Former smoker,Recurrent rectal polyp,82.1228716520408,29.171998370257192,Others
+19.1,115.0,Former smoker,Hypertension,104.40276709401707,24.33817633200134,Hypertension
+30.0,81.0,Former smoker,Coronary Heart Disease,82.6977380952381,30.008416666666673,Body mass index 30+ - obesity (finding)
+23.1,84.0,Never smoker,Anemia (disorder),81.71516666666668,26.72163333333334,Others
+27.0,82.0,Former smoker,"Prediabetes,Anemia (disorder)",77.4700671689422,27.212523587523584,Others
+30.0,73.0,Never smoker,Osteoporosis (disorder),82.49451866070864,28.275947361957968,Others
+28.3,83.0,Never smoker,Chronic intractable migraine without aura,80.08939213564219,30.033299301841957,Body mass index 30+ - obesity (finding)
+30.3,87.0,Never smoker,"Chronic kidney disease stage 1 (disorder),Diabetic renal disease (disorder),Hyperglycemia (disorder)",82.49451866070864,28.275947361957968,Others
+30.2,79.0,Never smoker,Body mass index 30+ - obesity (finding),79.76199971000575,28.641420243487584,Others
+29.3,103.0,Never smoker,History of appendectomy,103.53833333333333,29.069750000000013,Hypertension
+29.6,75.0,Never smoker,"Prediabetes,Anemia (disorder)",81.308240981241,29.213635564435563,Others
+25.4,87.0,Never smoker,Anemia (disorder),79.10457142857142,25.86970000000001,Others
+30.1,77.0,Never smoker,Coronary Heart Disease,77.27494047619048,29.811917316017315,Others
+31.1,78.0,Never smoker,Chronic congestive heart failure (disorder),78.70590476190476,29.98966031746032,Others
+27.7,83.0,Former smoker,"Prediabetes,Anemia (disorder)",82.35,28.29666666666664,Others
+30.1,74.0,Never smoker,Chronic congestive heart failure (disorder),78.36155525030526,29.066013131313138,Others
+30.2,80.0,Former smoker,Localized  primary osteoarthritis of the hand,81.77896029134264,28.04069176101677,Others
+30.0,71.0,Former smoker,Sinusitis (disorder),77.90484523809523,29.705260714285718,Others
+29.9,104.0,Never smoker,Anemia (disorder),102.02416666666666,29.606500000000025,Hypertension
+28.2,99.0,Never smoker,Chronic congestive heart failure (disorder),102.26566666666668,28.1061,Hypertension
+27.9,79.0,Never smoker,Chronic congestive heart failure (disorder),80.03975468975469,29.2345027056277,Others
+30.1,73.0,Former smoker,Pulmonary emphysema (disorder),82.06110714285717,33.3926126984127,Body mass index 30+ - obesity (finding)
+28.9,80.0,Never smoker,Anemia (disorder),74.79083333333332,28.484438095238094,Others
+25.0,75.0,Never smoker,Metabolic syndrome X (disorder),80.8655119047619,26.903019047619036,Others
+23.6,75.0,Never smoker,Anemia (disorder),79.27000000000001,26.454092857142836,Others
+29.0,71.0,Former smoker,"Chronic intractable migraine without aura,Chronic congestive heart failure (disorder)",77.80612224570234,29.12264630883822,Others
+30.2,86.0,Never smoker,"Prediabetes,Anemia (disorder)",80.50108999922234,28.90101151427871,Others
+30.1,87.0,Former smoker,Chronic pain,82.49451866070864,28.275947361957968,Others
+30.3,76.0,Former smoker,Body mass index 30+ - obesity (finding),76.59666666666668,30.02942142857143,Body mass index 30+ - obesity (finding)
+27.7,83.0,Never smoker,Hyperlipidemia,75.0793214285714,30.753718253968263,Body mass index 30+ - obesity (finding)
+28.8,71.0,Never smoker,Localized  primary osteoarthritis of the hand,75.47680555555554,29.61586666666669,Others
+22.3,84.0,Never smoker,"Hypertriglyceridemia (disorder),Metabolic syndrome X (disorder)",81.3537380952381,23.96283333333333,Others
+30.4,74.0,Never smoker,"Osteoporosis (disorder),Chronic congestive heart failure (disorder)",78.59852380952381,29.25419047619048,Others
+29.1,83.0,Never smoker,"Diabetic retinopathy associated with type II diabetes mellitus (disorder),Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)",77.9323611111111,28.213309126984136,Others
+24.6,75.0,Never smoker,Anemia (disorder),76.75750396825394,28.09593849206349,Others
+29.0,81.0,Former smoker,Coronary Heart Disease,79.65555760566406,29.860348394458992,Others
+31.9,80.0,Former smoker,Pulmonary emphysema (disorder),79.16508834221331,29.282674325558343,Others
+30.4,84.0,Never smoker,Chronic congestive heart failure (disorder),79.08514112521466,28.83957111360862,Others
+28.1,77.0,Never smoker,Osteoarthritis of knee,80.56573133810636,27.852297244422225,Others
+28.9,88.0,Never smoker,Chronic congestive heart failure (disorder),87.29658333333333,29.027838095238106,Others
+28.2,74.0,Never smoker,Anemia (disorder),77.9323611111111,28.213309126984136,Others
+28.0,77.0,Former smoker,Hyperlipidemia,94.39637631486163,25.988535350038674,Hypertension
+27.2,86.0,Never smoker,Chronic congestive heart failure (disorder),81.54885714285716,28.237294566544577,Others
+29.4,79.0,Never smoker,Anemia (disorder),78.9077380952381,28.93925,Others
+27.7,73.0,Never smoker,Osteoporosis (disorder),79.88921482264507,28.890720376845362,Others
+30.0,86.0,Former smoker,Chronic congestive heart failure (disorder),82.00137862137865,29.22587314907316,Others
+30.1,78.0,Former smoker,Anemia (disorder),78.86936369186368,28.904711113886105,Others
+25.6,85.0,Never smoker,Sinusitis (disorder),82.65766666666667,25.7727595238095,Others
+30.0,75.0,Never smoker,"Neoplasm of prostate,Carcinoma in situ of prostate (disorder)",79.76199971000575,28.641420243487584,Others
+28.5,89.0,Former smoker,Coronary Heart Disease,79.36627154506141,28.037363228438217,Others
+30.3,77.0,Former smoker,Hyperlipidemia,74.66701587301586,30.484045021645038,Body mass index 30+ - obesity (finding)
+29.3,74.0,Never smoker,Hyperlipidemia,76.22422774078942,28.444229531608855,Others
+27.4,80.0,Former smoker,Acute bacterial sinusitis (disorder),82.41579761904761,28.678189971139982,Others
+30.4,80.0,Never smoker,Chronic congestive heart failure (disorder),80.44676034692107,29.691486894901608,Others
+27.6,88.0,Former smoker,Osteoporosis (disorder),77.80612224570234,29.12264630883822,Others
+28.6,85.0,Former smoker,Atrial Fibrillation,79.36627154506141,28.037363228438217,Others
+30.2,73.0,Former smoker,Chronic congestive heart failure (disorder),78.33819684770991,28.92180307957444,Others
+27.1,81.0,Never smoker,Anemia (disorder),77.63198321119793,29.36619493691529,Others
+26.4,88.0,Never smoker,Chronic congestive heart failure (disorder),81.92062155981517,28.739583794341474,Others
+17.7,75.0,Current every day smoker,"Prediabetes,Anemia (disorder)",77.72241955874739,29.036006964448962,Others
+30.0,79.0,Never smoker,"Prediabetes,Anemia (disorder)",79.18916666666667,29.638,Others
+31.4,75.0,Former smoker,Anemia (disorder),79.48072269113757,29.08575972862462,Others
+27.8,86.0,Never smoker,Hyperlipidemia,77.68555447330445,28.737364682539702,Others
+30.2,78.0,Never smoker,"Prediabetes,Anemia (disorder)",76.19219336219335,29.419803435453442,Others
+27.7,78.0,Never smoker,Alzheimer's disease (disorder),80.63971282883782,29.239133394220154,Others
+30.3,86.0,Never smoker,Prediabetes,82.93424157406467,28.66135739025089,Others
+27.9,85.0,Never smoker,Osteoporosis (disorder),77.72241955874739,29.036006964448962,Others
+30.1,77.0,Former smoker,Chronic pain,77.63198321119793,29.36619493691529,Others
+27.5,112.0,Former smoker,Hypertension,80.41544927294929,29.15077336552335,Others
+29.3,77.0,Never smoker,"Prediabetes,Anemia (disorder)",76.22422774078942,28.444229531608855,Others
+27.9,83.0,Never smoker,"Chronic kidney disease stage 1 (disorder),Diabetic renal disease (disorder)",79.82664790764792,28.32935562770563,Others
+30.7,113.0,Never smoker,"Prediabetes,Anemia (disorder)",101.44916666666668,29.05091666666666,Hypertension
+30.1,88.0,Never smoker,Chronic congestive heart failure (disorder),81.92062155981517,28.739583794341474,Others
+27.6,88.0,Former smoker,Coronary Heart Disease,79.76199971000575,28.641420243487584,Others
+37.3,78.0,Former smoker,Prediabetes,79.0575,33.947000000000045,Body mass index 30+ - obesity (finding)
+27.5,87.0,Never smoker,Hyperlipidemia,75.8819158390629,30.176788161619093,Body mass index 30+ - obesity (finding)
+27.8,72.0,Never smoker,"Atrial Fibrillation,Chronic congestive heart failure (disorder)",80.37844816109859,28.20375150918684,Others
+30.4,71.0,Former smoker,Chronic congestive heart failure (disorder),79.69319660894665,29.97136125541126,Others
+22.7,101.0,Never smoker,Atrial Fibrillation,97.53685714285716,26.69158571428571,Hypertension
+30.4,84.0,Never smoker,Prediabetes,85.64016666666669,30.646583333333357,Body mass index 30+ - obesity (finding)
+31.4,81.0,Never smoker,Osteoporosis (disorder),80.44676034692107,29.691486894901608,Others
+19.2,78.0,Never smoker,Recurrent rectal polyp,78.98065669964032,28.318042155061285,Others
+28.2,82.0,Former smoker,Hyperlipidemia,77.63198321119793,29.36619493691529,Others
+28.0,79.0,Never smoker,Hyperlipidemia,86.15599603174606,32.11427175324675,Body mass index 30+ - obesity (finding)
+30.5,85.0,Former smoker,"Hyperglycemia (disorder),Metabolic syndrome X (disorder),Prediabetes",80.1444647094616,28.75759516039945,Others
+30.5,80.0,Never smoker,Atrial Fibrillation,79.08514112521466,28.83957111360862,Others
+28.9,82.0,Never smoker,Chronic pain,80.50108999922234,28.90101151427871,Others
+30.3,72.0,Never smoker,Osteoarthritis of hip,74.87040476190477,28.96390476190475,Others
+27.7,104.0,Former smoker,Coronary Heart Disease,101.53428571428573,28.039666666666644,Hypertension
+29.1,79.0,Former smoker,Hyperlipidemia,78.77031746031746,30.03444007936509,Body mass index 30+ - obesity (finding)
+27.8,81.33333333333333,Former smoker,"Metabolic syndrome X (disorder),Chronic kidney disease stage 1 (disorder),Diabetic renal disease (disorder)",77.25066666666669,28.769721428571433,Others
+24.7,98.0,Former smoker,Localized  primary osteoarthritis of the hand,106.64992857142857,26.947940476190475,Hypertension
+30.1,78.0,Former smoker,Recurrent rectal polyp,78.98065669964032,28.318042155061285,Others
+30.1,72.0,Former smoker,Body mass index 30+ - obesity (finding),76.22422774078942,28.444229531608855,Others
+25.2,76.0,Never smoker,Anemia (disorder),78.26516666666666,25.426966666666676,Others
+27.6,71.0,Former smoker,Alzheimer's disease (disorder),80.50108999922234,28.90101151427871,Others
+29.9,72.0,Never smoker,Anemia (disorder),76.61500653461604,28.683041570112902,Others
+30.4,114.0,Former smoker,Diabetic retinopathy associated with type II diabetes mellitus (disorder),99.35157142857142,26.80660018037518,Hypertension
+30.0,82.0,Never smoker,"Chronic congestive heart failure (disorder),Anemia (disorder)",84.64733333333334,28.528676190476205,Others
+30.3,78.0,Never smoker,Osteoarthritis of knee,78.98065669964032,28.318042155061285,Others
+24.7,71.0,Former smoker,Laceration of forearm,77.80612224570234,29.12264630883822,Others
+30.1,81.0,Never smoker,Hyperlipidemia,83.50430808080806,28.482842424242413,Others
+30.1,75.0,Former smoker,Chronic congestive heart failure (disorder),78.33868398268399,29.724384126984134,Others
+17.7,77.0,Former smoker,Chronic congestive heart failure (disorder),77.63083333333333,24.399125396825397,Others
+35.4,78.0,Former smoker,Gout,79.04280155873538,29.34138242737655,Others
+29.8,86.0,Former smoker,Pulmonary emphysema (disorder),83.30353174603175,27.85136308968807,Others
+27.2,85.0,Never smoker,Hyperlipidemia,78.98065669964032,28.318042155061285,Others
+30.2,75.0,Never smoker,Body mass index 30+ - obesity (finding),79.565,29.223833333333303,Others
+27.9,76.0,Former smoker,Hyperlipidemia,80.43085714285712,25.27937460317461,Others
+28.1,74.0,Never smoker,Osteoarthritis of knee,78.36155525030526,29.066013131313138,Others
+27.8,78.0,Former smoker,Chronic congestive heart failure (disorder),79.55918071239047,29.54247234179221,Others
+27.7,74.0,Former smoker,Alzheimer's disease (disorder),80.1444647094616,28.75759516039945,Others
+30.3,81.0,Never smoker,Body mass index 30+ - obesity (finding),92.31645977633478,27.24537446719946,Hypertension
+27.9,111.0,Never smoker,Diabetic retinopathy associated with type II diabetes mellitus (disorder),108.91,28.22000000000001,Hypertension
+30.5,81.0,Former smoker,Body mass index 30+ - obesity (finding),79.32942857142858,30.212176190476193,Body mass index 30+ - obesity (finding)
+30.2,81.0,Former smoker,"Chronic intractable migraine without aura,Chronic pain",80.04213246057012,29.265473137595123,Others
+26.2,99.0,Never smoker,Chronic congestive heart failure (disorder),91.56671825396826,27.495885714285713,Hypertension
+27.7,79.0,Never smoker,Hyperlipidemia,76.14814285714287,27.684819047619047,Others
+27.5,81.0,Never smoker,Coronary Heart Disease,80.94024927849927,29.963270208957702,Others
+30.3,82.0,Never smoker,Chronic pain,80.50108999922234,28.90101151427871,Others
+32.2,77.0,Never smoker,Anemia (disorder),74.79854978354977,30.59722009379511,Body mass index 30+ - obesity (finding)
+23.9,79.0,Never smoker,Second degree burn,80.03975468975469,29.2345027056277,Others
+30.2,85.0,Never smoker,Fetus with unknown complication,78.86936369186368,28.904711113886105,Others
+28.2,81.0,Never smoker,Recurrent rectal polyp,80.45945933804757,28.729273460526407,Others
+27.6,76.0,Never smoker,Hyperlipidemia,79.40522619047618,30.2045757936508,Body mass index 30+ - obesity (finding)
+30.1,81.0,Never smoker,Anemia (disorder),79.29171897546898,28.903909415584415,Others
+28.5,79.0,Never smoker,Localized  primary osteoarthritis of the hand,79.76199971000575,28.641420243487584,Others
+27.8,81.0,Never smoker,Hyperlipidemia,80.81959379509381,27.236748928848918,Others
+30.0,72.0,Former smoker,Chronic congestive heart failure (disorder),75.0793214285714,30.753718253968263,Body mass index 30+ - obesity (finding)
+32.3,78.0,Former smoker,Osteoporosis (disorder),78.87026515515294,31.42913370958438,Body mass index 30+ - obesity (finding)
+28.7,85.0,Former smoker,"Recurrent rectal polyp,Anemia (disorder)",83.8454761904762,29.3216106060606,Others
+30.1,77.0,Never smoker,Alzheimer's disease (disorder),79.55135455095073,29.26341541806575,Others
+30.3,75.0,Former smoker,Body mass index 30+ - obesity (finding),77.72241955874739,29.036006964448962,Others
+29.6,86.0,Former smoker,"Prediabetes,Anemia (disorder)",84.17571428571429,30.001833333333284,Body mass index 30+ - obesity (finding)
+27.5,77.0,Never smoker,"Recurrent rectal polyp,Anemia (disorder)",77.63198321119793,29.36619493691529,Others
+30.2,79.0,Former smoker,Anemia (disorder),83.87166666666666,28.76591904761905,Others
+28.6,83.0,Never smoker,Osteoarthritis of hip,81.90266666666666,29.534799999999997,Others
+31.1,78.0,Never smoker,Atrial Fibrillation,82.44486988011988,29.178573354423357,Others
+27.7,85.0,Never smoker,"Hypertriglyceridemia (disorder),Metabolic syndrome X (disorder)",80.54133333333336,27.498149999999995,Others
+30.1,76.0,Never smoker,"Hyperglycemia (disorder),Prediabetes",79.55135455095073,29.26341541806575,Others
+21.8,79.0,Never smoker,Chronic congestive heart failure (disorder),80.45975799200804,27.529620393495378,Others
+27.7,80.0,Never smoker,Acute bacterial sinusitis (disorder),79.84733333333335,28.916457142857116,Others
+27.9,86.0,Never smoker,"Chronic congestive heart failure (disorder),Anemia (disorder)",79.51440476190476,25.71573333333336,Others
+30.0,77.0,Never smoker,Body mass index 30+ - obesity (finding),77.63198321119793,29.36619493691529,Others
+30.5,80.0,Never smoker,Coronary Heart Disease,82.02404588059,29.485469885669886,Others
+30.4,72.0,Former smoker,Hyperlipidemia,77.90484523809523,29.705260714285718,Others
+30.5,82.0,Former smoker,Chronic obstructive bronchitis (disorder),81.30616666666666,34.51263333333336,Body mass index 30+ - obesity (finding)
+31.7,77.0,Never smoker,Osteoporosis (disorder),75.0197287157287,29.736032112332108,Others
+30.6,83.0,Never smoker,Anemia (disorder),80.08939213564219,30.033299301841957,Body mass index 30+ - obesity (finding)
+30.5,85.0,Never smoker,"Recurrent rectal polyp,Anemia (disorder)",78.62290476190473,30.3807111111111,Body mass index 30+ - obesity (finding)
+28.0,85.0,Never smoker,Alzheimer's disease (disorder),82.41327447552447,29.41634177489179,Others
+30.3,82.0,Former smoker,Coronary Heart Disease,81.54885714285716,28.237294566544577,Others
+28.100000000000005,110.0,Never smoker,"Hypertriglyceridemia (disorder),Metabolic syndrome X (disorder),Anemia (disorder)",100.855,29.108749999999954,Hypertension
+30.0,81.0,Never smoker,Polyp of colon,80.42950624375625,28.970619083694096,Others
+27.4,76.0,Former smoker,Anemia (disorder),75.17943800643799,28.364291702741703,Others
+28.6,78.0,Former smoker,Anemia (disorder),81.77896029134264,28.04069176101677,Others
+27.6,73.0,Never smoker,Anemia (disorder),77.70529184704185,28.637725821400828,Others
+27.3,77.0,Never smoker,Osteoarthritis of knee,76.37833333333333,27.540000000000006,Others
+30.2,72.0,Former smoker,Body mass index 30+ - obesity (finding),89.8103611111111,27.328462698412707,Others
+30.2,79.0,Never smoker,Anemia (disorder),75.72569047619051,30.338199999999997,Body mass index 30+ - obesity (finding)
+27.8,86.0,Former smoker,Pulmonary emphysema (disorder),80.22509523809525,26.585907142857145,Others
+30.4,82.0,Never smoker,Osteoarthritis of knee,81.71173878898878,29.887316178266175,Others
+31.1,82.0,Former smoker,Hyperlipidemia,82.15129975579977,28.93001096681098,Others
+30.0,84.0,Former smoker,Prediabetes,78.44259199134198,29.185397660672667,Others
+27.8,76.0,Never smoker,Alzheimer's disease (disorder),81.308240981241,29.213635564435563,Others
+26.100000000000005,87.0,Never smoker,"Chronic pain,Impacted molars,Chronic intractable migraine without aura",85.62416666666668,27.150449999999978,Others
+27.8,112.0,Former smoker,Chronic congestive heart failure (disorder),110.50666666666666,27.18550000000002,Hypertension
+27.7,78.0,Never smoker,Coronary Heart Disease,76.81078396603398,30.375334987235,Body mass index 30+ - obesity (finding)
+27.6,86.0,Former smoker,Osteoporosis (disorder),79.76199971000575,28.641420243487584,Others
+20.8,100.0,Never smoker,Impacted molars,92.5415,26.49448333333334,Hypertension
+27.2,79.0,Never smoker,Osteoporosis (disorder),77.63198321119793,29.36619493691529,Others
+30.4,78.0,Former smoker,Neuropathy due to type 2 diabetes mellitus (disorder),75.47680555555554,29.61586666666669,Others
+30.0,78.0,Never smoker,Prediabetes,82.20416666666667,25.90866666666667,Others
+29.4,80.0,Former smoker,Neoplasm of prostate,77.27494047619048,29.811917316017315,Others
+42.0,80.0,Never smoker,Chronic congestive heart failure (disorder),80.44676034692107,29.691486894901608,Others
+28.1,89.0,Never smoker,Coronary Heart Disease,80.62351984126984,29.006055555555545,Others
+30.3,74.0,Former smoker,Chronic obstructive bronchitis (disorder),80.50108999922234,28.90101151427871,Others
+27.5,81.0,Never smoker,Hypertriglyceridemia (disorder),82.7875,23.982333333333337,Others
+27.9,85.0,Never smoker,Coronary Heart Disease,82.49451866070864,28.275947361957968,Others
+30.5,76.0,Never smoker,Chronic congestive heart failure (disorder),76.19219336219335,29.419803435453442,Others
+28.6,78.0,Former smoker,Localized  primary osteoarthritis of the hand,79.19798080720453,27.652092228604733,Others
+31.6,76.0,Never smoker,Prediabetes,76.89833333333333,30.954099999999972,Body mass index 30+ - obesity (finding)
+29.3,79.0,Never smoker,Anemia (disorder),82.20166666666665,27.32230000000002,Others
+30.4,86.0,Never smoker,Body mass index 30+ - obesity (finding),89.09,26.12151547619049,Others
+27.6,71.0,Former smoker,"Atrial Fibrillation,Hyperlipidemia",80.83545989384012,28.84515571163081,Others
+29.2,85.0,Former smoker,Osteoarthritis of knee,81.12510503385506,28.522981129981126,Others
+28.0,88.0,Former smoker,Chronic congestive heart failure (disorder),84.49737373737372,28.480709523809534,Others
+29.0,89.0,Never smoker,Osteoporosis (disorder),79.14708244206776,27.918900957375946,Others
+28.3,77.0,Former smoker,Pulmonary emphysema (disorder),80.74425000000002,28.64090555555557,Others
+30.2,82.0,Never smoker,Osteoarthritis of hip,80.17902403152401,29.881865512265517,Others
+30.5,80.0,Former smoker,Osteoarthritis of hip,76.94510185647685,28.78928793151294,Others
+24.0,79.0,Never smoker,Acute bacterial sinusitis (disorder),81.06854406704407,27.904560966810983,Others
+28.0,80.0,Never smoker,Hyperlipidemia,82.68350000000001,29.65524999999998,Others
+23.9,113.0,Never smoker,Hypertension,103.14407142857142,25.296323809523802,Hypertension
+27.3,81.0,Never smoker,Alzheimer's disease (disorder),83.17891847041848,28.617609607059613,Others
+29.4,79.0,Former smoker,Anemia (disorder),80.45975799200804,27.529620393495378,Others
+27.9,80.0,Former smoker,Alzheimer's disease (disorder),78.98065669964032,28.318042155061285,Others
+39.1,86.0,Never smoker,"Chronic kidney disease stage 1 (disorder),Diabetic renal disease (disorder)",79.76798901098901,30.225228823953856,Body mass index 30+ - obesity (finding)
+29.6,76.0,Never smoker,Miscarriage in first trimester,80.14702574508824,28.926708179892007,Others
+23.4,86.0,Never smoker,Anemia (disorder),84.52821428571427,24.927500000000038,Others
+30.2,79.0,Former smoker,Diabetic retinopathy associated with type II diabetes mellitus (disorder),77.98469377861562,28.420104891139985,Others
+29.0,77.0,Never smoker,Pulmonary emphysema (disorder),83.8454761904762,29.3216106060606,Others
+38.2,78.0,Never smoker,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),82.126709703695,29.913720185275675,Others
+28.6,87.0,Former smoker,Alzheimer's disease (disorder),78.98065669964032,28.318042155061285,Others
+30.5,79.0,Former smoker,"Chronic congestive heart failure (disorder),Anemia (disorder)",78.87026515515294,31.42913370958438,Body mass index 30+ - obesity (finding)
+23.1,104.0,Never smoker,Hyperlipidemia,101.58266666666667,24.76436666666665,Hypertension
+27.9,80.0,Never smoker,Osteoporosis (disorder),79.14708244206776,27.918900957375946,Others
+30.1,75.0,Never smoker,Hyperlipidemia,79.55259884559885,28.81344882154881,Others
+27.8,79.0,Former smoker,Prediabetes,77.99715476190472,26.48477738095237,Others
+30.2,69.0,Former smoker,Osteoarthritis of knee,70.08,29.3538333333333,Others
+28.3,73.0,Never smoker,Anemia (disorder),75.30289285714288,29.03441706349206,Others
+30.5,78.0,Former smoker,Hyperlipidemia,79.98330952380952,29.834005555555564,Others
+44.4,85.0,Never smoker,Osteoarthritis of knee,82.4707419247419,31.3424002081252,Body mass index 30+ - obesity (finding)
+28.7,88.0,Former smoker,Antepartum eclampsia,84.82916666666668,28.821583333333315,Others
+28.2,76.0,Never smoker,"Hyperlipidemia,Polyp of colon",80.83545989384012,28.84515571163081,Others
+29.1,110.0,Former smoker,Familial Alzheimer's disease of early onset (disorder),106.24416666666667,28.33780952380948,Hypertension
+24.1,97.0,Never smoker,Coronary Heart Disease,97.85333333333332,25.44016666666663,Hypertension
+28.1,86.0,Never smoker,Hyperlipidemia,82.13719047619044,27.635741666666657,Others
+33.5,78.0,Never smoker,Body mass index 30+ - obesity (finding),78.98065669964032,28.318042155061285,Others
+29.7,84.0,Former smoker,Chronic congestive heart failure (disorder),76.99090295815296,28.22012611832612,Others
+28.1,77.0,Never smoker,"Neoplasm of prostate,Carcinoma in situ of prostate (disorder)",76.20042316017317,29.48272005494507,Others
+34.8,101.0,Never smoker,Hypertension,82.47784214641568,29.656956729381726,Others
+30.2,73.0,Never smoker,"Acute Cholecystitis,Cholelithiasis",73.0,31.21699484126985,Body mass index 30+ - obesity (finding)
+30.2,87.0,Never smoker,"Hyperglycemia (disorder),Hypertriglyceridemia (disorder),Metabolic syndrome X (disorder),Prediabetes",77.02960822510823,30.588529761904756,Body mass index 30+ - obesity (finding)
+30.6,71.0,Never smoker,Prediabetes,80.93269566718234,28.5153563710652,Others
+29.5,74.0,Never smoker,Chronic congestive heart failure (disorder),76.30151810645873,28.74318451002674,Others
+26.4,81.0,Never smoker,Osteoarthritis of knee,80.73809357764699,29.853717207117782,Others
+27.7,79.0,Never smoker,Alzheimer's disease (disorder),79.86383333333332,28.661209523809518,Others
+27.7,83.0,Former smoker,Alzheimer's disease (disorder),80.9072619047619,29.022819047619045,Others
+30.5,88.0,Never smoker,Body mass index 30+ - obesity (finding),83.69,29.63799999999999,Others
+28.0,76.0,Never smoker,Anemia (disorder),77.76741666666666,28.85322857142859,Others
+37.5,79.0,Never smoker,Chronic congestive heart failure (disorder),80.32205663780665,29.91712166722167,Others
+33.0,86.0,Never smoker,Suspected lung cancer (situation),84.70484523809525,29.913673504273508,Others
+30.600000000000005,82.0,Never smoker,"Chronic intractable migraine without aura,Impacted molars,Chronic pain",81.86064285714284,29.320921969696975,Others
+28.6,83.0,Never smoker,Prediabetes,79.65833333333335,28.674585714285698,Others
+21.5,68.0,Never smoker,Coronary Heart Disease,75.72047619047619,25.23156190476189,Others
+27.8,77.0,Former smoker,Familial Alzheimer's disease of early onset (disorder),73.55242857142858,29.28045378787879,Others
+27.7,76.0,Never smoker,"Acute Cholecystitis,Cholelithiasis,Chronic congestive heart failure (disorder)",80.1444647094616,28.75759516039945,Others
+30.1,87.0,Former smoker,"Recurrent rectal polyp,Anemia (disorder)",85.75,29.639799999999966,Others
+28.1,85.0,Never smoker,Anemia (disorder),85.83898796791445,29.04636666666667,Others
+30.5,77.0,Former smoker,Hyperlipidemia,81.12510503385506,28.522981129981126,Others
+27.9,78.0,Never smoker,Atrial Fibrillation,77.03881529581531,29.193629365079392,Others
+30.4,74.0,Former smoker,Coronary Heart Disease,79.14708244206776,27.918900957375946,Others
+27.7,83.0,Former smoker,"Neoplasm of prostate,Carcinoma in situ of prostate (disorder)",80.83545989384012,28.84515571163081,Others
+28.5,74.0,Never smoker,Anemia (disorder),79.77875295537794,29.9355495985224,Others
+28.3,82.0,Former smoker,Chronic congestive heart failure (disorder),82.568,28.810916666666685,Others
+27.4,83.0,Never smoker,Osteoporosis (disorder),80.44676034692107,29.691486894901608,Others
+20.9,81.0,Never smoker,Anemia (disorder),80.37844816109859,28.20375150918684,Others
+27.2,86.0,Former smoker,Alzheimer's disease (disorder),80.1444647094616,28.75759516039945,Others
+27.6,86.0,Former smoker,Chronic congestive heart failure (disorder),79.706009018759,28.5829724025974,Others
+30.3,85.0,Never smoker,Chronic congestive heart failure (disorder),81.66144458420762,28.36317722188622,Others
+27.7,74.0,Never smoker,Anemia (disorder),80.42950624375625,28.970619083694096,Others
+28.2,77.0,Never smoker,Osteoporosis (disorder),79.55135455095073,29.26341541806575,Others
+30.2,85.0,Never smoker,Atrial Fibrillation,82.44486988011988,29.178573354423357,Others
+30.2,73.0,Never smoker,Chronic congestive heart failure (disorder),78.33819684770991,28.92180307957444,Others
+20.5,118.0,Never smoker,Hypertension,98.73252380952381,25.362895238095245,Hypertension
+41.7,113.0,Never smoker,Hypertension,83.81649991674993,30.08454206349208,Body mass index 30+ - obesity (finding)
+30.3,86.0,Former smoker,Impacted molars,83.53837612387612,29.120903188478188,Others
+34.0,80.0,Former smoker,"Neoplasm of prostate,Carcinoma in situ of prostate (disorder)",82.126709703695,29.913720185275675,Others
+30.1,78.0,Former smoker,"Chronic kidney disease stage 1 (disorder),Diabetic renal disease (disorder)",79.90021825396823,29.59990158730159,Others
+37.7,83.0,Never smoker,Anemia (disorder),80.11333333333334,35.02824999999995,Body mass index 30+ - obesity (finding)
+29.7,72.0,Former smoker,Anemia (disorder),75.8595,29.430583333333303,Others
+28.5,75.0,Never smoker,Recurrent rectal polyp,77.72241955874739,29.036006964448962,Others
+27.6,73.0,Former smoker,Hyperlipidemia,79.08514112521466,28.83957111360862,Others
+31.1,74.0,Never smoker,Chronic intractable migraine without aura,76.30151810645873,28.74318451002674,Others
+28.9,78.0,Former smoker,Polyp of colon,78.98065669964032,28.318042155061285,Others
+30.3,88.0,Never smoker,"Prediabetes,Anemia (disorder)",79.94454753579754,29.01982787726979,Others
+27.5,74.0,Never smoker,Hyperlipidemia,80.37844816109859,28.20375150918684,Others
+30.2,80.0,Former smoker,Impacted molars,80.44676034692107,29.691486894901608,Others
+29.9,73.0,Never smoker,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),80.29037225193107,29.597298265623266,Others
+28.6,80.0,Never smoker,Prediabetes,80.6081188642033,28.309078035161424,Others
+30.4,87.0,Former smoker,"Chronic congestive heart failure (disorder),Anemia (disorder)",86.81357142857144,29.62667380952381,Others
+24.0,82.0,Never smoker,"Prediabetes,Anemia (disorder)",81.0375,28.00453333333331,Others
+28.0,82.0,Never smoker,Osteoarthritis of knee,80.50108999922234,28.90101151427871,Others
+26.5,76.0,Former smoker,Anemia (disorder),76.929,28.762441666666668,Others
+27.9,79.0,Never smoker,Alzheimer's disease (disorder),82.93424157406467,28.66135739025089,Others
+23.2,72.0,Never smoker,Osteoarthritis of knee,74.19,25.527666666666654,Others
+28.3,81.0,Never smoker,Hypertriglyceridemia (disorder),79.48072269113757,29.08575972862462,Others
+30.0,75.0,Never smoker,"Prediabetes,Anemia (disorder)",76.12630952380952,29.659180952380964,Others
+29.5,81.0,Never smoker,"Prediabetes,Anemia (disorder)",79.30034153415383,29.10441038756993,Others
+30.1,75.0,Former smoker,Body mass index 30+ - obesity (finding),78.48666666666666,30.682099999999988,Body mass index 30+ - obesity (finding)
+29.7,78.0,Never smoker,"Prediabetes,Anemia (disorder)",77.01614285714285,31.13629285714286,Body mass index 30+ - obesity (finding)
+28.8,82.0,Former smoker,Coronary Heart Disease,79.66706529581532,27.517170881895865,Others
+30.0,72.0,Never smoker,Body mass index 30+ - obesity (finding),98.73252380952381,25.362895238095245,Hypertension
+29.0,85.0,Never smoker,Osteoarthritis of knee,80.9072619047619,29.022819047619045,Others
+27.6,85.0,Never smoker,Coronary Heart Disease,82.99066666666667,28.941880952380956,Others
+27.4,76.0,Never smoker,Hyperlipidemia,78.33819684770991,28.92180307957444,Others
+20.6,80.0,Never smoker,Hyperlipidemia,76.22422774078942,28.444229531608855,Others
+27.6,79.0,Never smoker,Coronary Heart Disease,78.24666666666667,28.634166666666648,Others
+30.4,78.0,Former smoker,Hyperlipidemia,78.36155525030526,29.066013131313138,Others
+28.0,70.0,Former smoker,Hyperlipidemia,80.50108999922234,28.90101151427871,Others
+27.4,88.0,Never smoker,Hyperlipidemia,84.64733333333334,28.528676190476205,Others
+25.0,117.0,Former smoker,"Miscarriage in first trimester,Blighted ovum",110.85547619047615,26.816327777777783,Hypertension
+27.9,76.0,Never smoker,Chronic congestive heart failure (disorder),78.7350440552459,29.74953817049847,Others
+27.7,77.0,Never smoker,Neuropathy due to type 2 diabetes mellitus (disorder),76.08689574314572,29.55246493506494,Others
+30.2,79.0,Never smoker,Anemia (disorder),77.66204761904763,30.176554761904764,Body mass index 30+ - obesity (finding)
+29.7,89.0,Never smoker,Chronic congestive heart failure (disorder),88.23666666666666,29.70181666666666,Others
+28.9,70.0,Never smoker,"Prediabetes,Anemia (disorder)",79.75,28.03360000000003,Others
+30.1,80.0,Never smoker,"Prediabetes,Anemia (disorder)",78.98065669964032,28.318042155061285,Others
+30.3,80.0,Never smoker,"Hyperglycemia (disorder),Prediabetes",80.24494415306917,29.003113038758617,Others
+27.4,89.0,Former smoker,Anemia (disorder),79.21020562770563,28.367309523809517,Others
+26.9,78.0,Former smoker,"Prediabetes,Anemia (disorder)",76.27397680097681,26.73362582972585,Others
+30.3,78.0,Former smoker,"Prediabetes,Anemia (disorder)",79.72166666666666,31.955000000000037,Body mass index 30+ - obesity (finding)
+28.0,78.0,Never smoker,Osteoporosis (disorder),82.4707419247419,31.3424002081252,Body mass index 30+ - obesity (finding)
+30.1,78.0,Never smoker,"Diabetic retinopathy associated with type II diabetes mellitus (disorder),Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)",83.50430808080806,28.482842424242413,Others
+22.7,80.0,Former smoker,Chronic congestive heart failure (disorder),82.39244480519481,27.374265834165836,Others
+28.6,82.0,Never smoker,Hyperlipidemia,79.85095238095239,29.744749999999975,Others
+30.1,77.0,Former smoker,Prediabetes,82.49156024531025,29.150509018759013,Others
+28.3,75.0,Never smoker,Alzheimer's disease (disorder),78.9077380952381,28.93925,Others
+28.1,76.0,Never smoker,Chronic congestive heart failure (disorder),78.7350440552459,29.74953817049847,Others
+30.3,82.0,Former smoker,Recurrent rectal polyp,80.50108999922234,28.90101151427871,Others
+28.0,86.0,Never smoker,Hyperlipidemia,85.16166666666668,28.415538888888896,Others
+30.3,77.0,Former smoker,Anemia (disorder),78.07642500228529,30.255289513264515,Body mass index 30+ - obesity (finding)
+30.2,80.0,Former smoker,Chronic congestive heart failure (disorder),79.36627154506141,28.037363228438217,Others
+28.2,78.0,Never smoker,"Chronic kidney disease stage 1 (disorder),Diabetic renal disease (disorder)",80.56573133810636,27.852297244422225,Others
+27.5,75.0,Never smoker,"Neoplasm of prostate,Carcinoma in situ of prostate (disorder)",80.52018417693417,28.938928368853375,Others
+28.9,82.0,Former smoker,Chronic congestive heart failure (disorder),79.65555760566406,29.860348394458992,Others
+22.5,74.0,Never smoker,Pulmonary emphysema (disorder),79.20077813852814,28.932474802974795,Others
+30.0,87.0,Former smoker,Chronic congestive heart failure (disorder),82.49451866070864,28.275947361957968,Others
+29.9,77.0,Never smoker,Localized  primary osteoarthritis of the hand,80.1608968253968,30.064459217171724,Body mass index 30+ - obesity (finding)
+30.4,88.0,Former smoker,Coronary Heart Disease,83.3486832595509,28.83035157407952,Others
+28.8,80.0,Former smoker,"Chronic kidney disease stage 1 (disorder),Diabetic renal disease (disorder)",83.3486832595509,28.83035157407952,Others
+30.1,79.0,Never smoker,Hyperglycemia (disorder),79.73472319347319,29.020799861249838,Others
+27.6,76.0,Never smoker,Pulmonary emphysema (disorder),77.61571428571429,29.107911904761885,Others
+27.6,84.0,Never smoker,Recurrent rectal polyp,83.05846710234209,29.823166489066487,Others
+30.2,86.5,Never smoker,"Recurrent rectal polyp,Alcoholism",83.72123809523809,30.037173809523797,Body mass index 30+ - obesity (finding)
+29.0,76.0,Former smoker,Chronic congestive heart failure (disorder),77.20971428571427,29.120659523809522,Others
+30.1,76.0,Never smoker,Polyp of colon,78.7350440552459,29.74953817049847,Others
+29.6,77.0,Former smoker,Anemia (disorder),77.80612224570234,29.12264630883822,Others
+30.0,82.0,Former smoker,Body mass index 30+ - obesity (finding),81.90266666666666,29.534799999999997,Others
+27.9,80.0,Former smoker,Coronary Heart Disease,78.51428571428569,27.721066269841263,Others
+30.3,75.0,Never smoker,Chronic intractable migraine without aura,79.16539682539683,27.647398809523793,Others
+30.0,79.0,Former smoker,Anemia (disorder),80.08939213564219,30.033299301841957,Body mass index 30+ - obesity (finding)
+28.9,74.0,Never smoker,Chronic congestive heart failure (disorder),75.78426190476192,28.668644047619082,Others
+30.3,83.0,Never smoker,"Hyperglycemia (disorder),Prediabetes",80.1444647094616,28.75759516039945,Others
+30.5,75.0,Never smoker,Chronic congestive heart failure (disorder),76.52916666666668,29.538410714285742,Others
+30.1,77.0,Never smoker,"Hyperglycemia (disorder),Prediabetes",80.82029761904764,28.863383333333303,Others
+29.8,80.0,Never smoker,Diabetic retinopathy associated with type II diabetes mellitus (disorder),81.97632997557997,28.899131024531034,Others
+28.6,82.0,Never smoker,Gout,80.17902403152401,29.881865512265517,Others
+28.9,97.0,Former smoker,"Prediabetes,Anemia (disorder)",101.7,27.96175000000003,Hypertension
+32.7,86.0,Never smoker,Osteoporosis (disorder),82.41332142857144,30.76268333333331,Body mass index 30+ - obesity (finding)
+29.3,88.0,Never smoker,"Hyperglycemia (disorder),Prediabetes",80.04213246057012,29.265473137595123,Others
+27.4,77.0,Never smoker,"Prediabetes,Anemia (disorder)",80.83631578947369,28.149702380952412,Others
+29.6,74.0,Never smoker,Coronary Heart Disease,75.41166666666668,29.380514285714252,Others
+32.2,74.0,Never smoker,Atrial Fibrillation,78.62290476190473,30.3807111111111,Body mass index 30+ - obesity (finding)
+30.3,82.0,Never smoker,Body mass index 30+ - obesity (finding),80.50108999922234,28.90101151427871,Others
+30.2,76.0,Former smoker,Anemia (disorder),77.38965748140748,30.134448956598945,Body mass index 30+ - obesity (finding)
+30.5,86.0,Never smoker,Anemia (disorder),79.91576190476191,30.115039682539678,Body mass index 30+ - obesity (finding)
+27.6,76.0,Former smoker,Osteoporosis (disorder),80.94024927849927,29.963270208957702,Others
+30.2,81.0,Former smoker,Hyperlipidemia,80.95366666666669,29.57761309523806,Others
+27.9,106.0,Former smoker,Chronic congestive heart failure (disorder),104.82190476190478,28.319133333333358,Hypertension
+27.7,80.0,Former smoker,Gout,79.8305,30.00080595238093,Body mass index 30+ - obesity (finding)
+27.8,85.0,Never smoker,Hyperlipidemia,85.00627777777778,28.16622738095238,Others
+30.4,72.0,Never smoker,Body mass index 30+ - obesity (finding),76.22422774078942,28.444229531608855,Others
+30.5,73.0,Never smoker,Osteoporosis (disorder),80.50108999922234,28.90101151427871,Others
+30.2,87.0,Former smoker,Osteoporosis (disorder),82.93981529581532,28.983783333333335,Others
+28.2,76.0,Former smoker,Chronic congestive heart failure (disorder),79.55259884559885,28.81344882154881,Others
+30.0,77.0,Never smoker,Chronic congestive heart failure (disorder),79.65457936507934,29.438456349206362,Others
+32.2,112.0,Never smoker,"Hypertriglyceridemia (disorder),Metabolic syndrome X (disorder)",87.79766666666669,30.668333333333337,Body mass index 30+ - obesity (finding)
+28.3,85.0,Never smoker,Anemia (disorder),82.00137862137865,29.22587314907316,Others
+27.6,74.0,Former smoker,"Prediabetes,Anemia (disorder)",80.6081188642033,28.309078035161424,Others
+30.5,82.0,Former smoker,Osteoarthritis of knee,80.94024927849927,29.963270208957702,Others
+30.3,87.0,Former smoker,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),83.53837612387612,29.120903188478188,Others
+29.0,78.0,Former smoker,Osteoporosis (disorder),80.48769885425033,27.928174208402535,Others
+20.5,82.0,Former smoker,Chronic congestive heart failure (disorder),80.50108999922234,28.90101151427871,Others
+23.3,83.0,Never smoker,Osteoarthritis of knee,80.55723809523809,25.324228571428566,Others
+28.7,82.0,Never smoker,"Chronic kidney disease stage 1 (disorder),Diabetic renal disease (disorder)",81.54885714285716,28.237294566544577,Others
+28.3,72.0,Former smoker,Recurrent rectal polyp,76.22422774078942,28.444229531608855,Others
+25.7,77.0,Never smoker,"Prediabetes,Anemia (disorder)",78.09666666666668,26.815666666666658,Others
+30.1,81.0,Former smoker,"Neoplasm of prostate,Carcinoma in situ of prostate (disorder)",80.83545989384012,28.84515571163081,Others
+30.3,79.0,Former smoker,Chronic congestive heart failure (disorder),80.63971282883782,29.239133394220154,Others
+27.7,76.0,Former smoker,"Hypertriglyceridemia (disorder),Metabolic syndrome X (disorder)",76.97,29.684999999999967,Others
+30.5,72.0,Never smoker,"Hyperglycemia (disorder),Hypertriglyceridemia (disorder),Metabolic syndrome X (disorder),Prediabetes,Anemia (disorder)",76.81078396603398,30.375334987235,Body mass index 30+ - obesity (finding)
+27.4,86.0,Former smoker,Coronary Heart Disease,77.72241955874739,29.036006964448962,Others
+30.0,77.0,Never smoker,Chronic congestive heart failure (disorder),77.475,30.288892857142873,Body mass index 30+ - obesity (finding)
+29.0,76.0,Never smoker,Hyperlipidemia,80.37844816109859,28.20375150918684,Others
+30.2,84.0,Former smoker,Suspected lung cancer (situation),83.05846710234209,29.823166489066487,Others
+30.5,82.0,Former smoker,Osteoporosis (disorder),80.83545989384012,28.84515571163081,Others
+27.6,76.0,Former smoker,Osteoporosis (disorder),82.93424157406467,28.66135739025089,Others
+30.5,76.0,Never smoker,Chronic obstructive bronchitis (disorder),78.77031746031746,30.03444007936509,Body mass index 30+ - obesity (finding)
+21.8,83.0,Never smoker,Metabolic syndrome X (disorder),81.77896029134264,28.04069176101677,Others
+28.2,95.0,Never smoker,Hypertriglyceridemia (disorder),88.69,28.37724999999999,Others
+27.9,83.0,Never smoker,Impacted molars,81.01762207400441,32.448588566335616,Body mass index 30+ - obesity (finding)
+29.0,81.0,Never smoker,Chronic obstructive bronchitis (disorder),84.5025,28.447,Others
+27.7,84.0,Former smoker,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),80.6081188642033,28.309078035161424,Others
+30.3,88.0,Never smoker,Anemia (disorder),83.03200485625486,29.534669416694413,Others
+28.8,78.0,Former smoker,Atrial Fibrillation,79.65833333333335,28.674585714285698,Others
+29.5,86.0,Never smoker,Polyp of colon,83.52021825396825,28.934369047619047,Others
+27.8,73.0,Never smoker,Osteoporosis (disorder),79.16508834221331,29.282674325558343,Others
+28.0,86.0,Former smoker,"Prediabetes,Anemia (disorder)",82.726,29.207783333333328,Others
+27.2,80.0,Former smoker,Suspected lung cancer (situation),80.73316910866912,28.854134412809415,Others
+30.5,73.0,Never smoker,Chronic congestive heart failure (disorder),74.79083333333332,28.484438095238094,Others
+30.2,77.0,Never smoker,Chronic congestive heart failure (disorder),78.44491774891775,29.725504254079233,Others
+26.6,78.0,Never smoker,Anemia (disorder),80.37844816109859,28.20375150918684,Others
+30.6,75.0,Never smoker,Prediabetes,78.33819684770991,28.92180307957444,Others
+26.8,73.0,Former smoker,Anemia (disorder),76.94510185647685,28.78928793151294,Others
+25.4,73.0,Never smoker,"Prediabetes,Anemia (disorder)",80.93269566718234,28.5153563710652,Others
+22.7,106.0,Current every day smoker,Impacted molars,96.33311688311687,25.34014087301588,Hypertension
+27.5,81.0,Never smoker,Alzheimer's disease (disorder),79.76199971000575,28.641420243487584,Others
+30.1,75.0,Never smoker,Osteoarthritis of hip,77.62580555555556,30.16889047619044,Body mass index 30+ - obesity (finding)
+28.0,79.0,Former smoker,Hyperlipidemia,79.76199971000575,28.641420243487584,Others
+27.7,76.0,Never smoker,Alzheimer's disease (disorder),81.92817063492065,28.336586327561335,Others
+28.3,72.0,Never smoker,Hyperlipidemia,78.58689682539682,31.508890476190476,Body mass index 30+ - obesity (finding)
+33.7,80.0,Never smoker,Chronic congestive heart failure (disorder),79.8305,30.00080595238093,Body mass index 30+ - obesity (finding)
+28.1,76.0,Never smoker,Chronic congestive heart failure (disorder),78.7350440552459,29.74953817049847,Others
+28.0,78.0,Never smoker,Anemia (disorder),79.65555760566406,29.860348394458992,Others
+27.4,84.0,Former smoker,Coronary Heart Disease,78.98065669964032,28.318042155061285,Others
+30.4,77.0,Never smoker,"Acute bacterial sinusitis (disorder),Hyperlipidemia",76.32465151515153,30.374316666666672,Body mass index 30+ - obesity (finding)
+30.1,84.0,Never smoker,Hyperlipidemia,79.16508834221331,29.282674325558343,Others
+22.4,82.0,Current every day smoker,"Prediabetes,Anemia (disorder)",79.76199971000575,28.641420243487584,Others
+27.5,106.0,Former smoker,Hyperlipidemia,107.15,28.73450000000001,Hypertension
+29.8,82.0,Former smoker,Hyperlipidemia,79.77875295537794,29.9355495985224,Others
+30.1,81.0,Never smoker,Hyperlipidemia,82.1228716520408,29.171998370257192,Others
+29.2,110.0,Never smoker,Anemia (disorder),97.24333333333333,32.15299999999996,Body mass index 30+ - obesity (finding)
+27.600000000000005,83.0,Never smoker,"Diabetes,Anemia (disorder),Neuropathy due to type 2 diabetes mellitus (disorder)",79.76199971000575,28.641420243487584,Others
+27.3,75.0,Never smoker,Neuropathy due to type 2 diabetes mellitus (disorder),82.17524236874235,30.634923124098126,Body mass index 30+ - obesity (finding)
+33.6,78.0,Former smoker,Alzheimer's disease (disorder),80.45945933804757,28.729273460526407,Others
+30.1,81.0,Former smoker,Alzheimer's disease (disorder),79.36627154506141,28.037363228438217,Others
+30.4,78.0,Never smoker,"Prediabetes,Anemia (disorder)",77.85600000000001,30.08818333333336,Body mass index 30+ - obesity (finding)
+20.7,104.0,Never smoker,Hypertension,76.22422774078942,28.444229531608855,Others
+29.7,72.0,Never smoker,Anemia (disorder),79.73472319347319,29.020799861249838,Others
+30.4,77.0,Never smoker,Chronic congestive heart failure (disorder),77.66204761904763,30.176554761904764,Body mass index 30+ - obesity (finding)
+30.3,81.0,Never smoker,Recurrent rectal polyp,80.83545989384012,28.84515571163081,Others
+29.8,89.0,Never smoker,Osteoporosis (disorder),77.69057823129252,29.771750000000008,Others
+27.5,104.0,Never smoker,Atrial Fibrillation,106.64992857142857,26.947940476190475,Hypertension
+30.3,81.0,Former smoker,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),79.48072269113757,29.08575972862462,Others
+27.3,77.0,Never smoker,Alzheimer's disease (disorder),78.09507142857143,29.205099999999995,Others
+30.6,76.0,Never smoker,Alzheimer's disease (disorder),80.04213246057012,29.265473137595123,Others
+29.6,77.0,Never smoker,Neuropathy due to type 2 diabetes mellitus (disorder),73.55242857142858,29.28045378787879,Others
+30.1,73.0,Never smoker,Body mass index 30+ - obesity (finding),99.35157142857142,26.80660018037518,Hypertension
+30.4,85.0,Former smoker,Chronic congestive heart failure (disorder),78.18165476190475,29.524040821256023,Others
+30.5,83.0,Never smoker,"Prediabetes,Anemia (disorder)",80.37844816109859,28.20375150918684,Others
+30.1,79.0,Former smoker,Osteoporosis (disorder),77.80612224570234,29.12264630883822,Others
+30.6,80.0,Former smoker,Polyp of colon,82.02404588059,29.485469885669886,Others
+27.9,86.0,Never smoker,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),79.91672761225702,28.38427376218553,Others
+27.5,76.0,Never smoker,"Hypertriglyceridemia (disorder),Metabolic syndrome X (disorder)",82.35305335143113,29.198400628117152,Others
+30.2,74.0,Never smoker,Body mass index 30+ - obesity (finding),76.30151810645873,28.74318451002674,Others
+28.4,71.0,Never smoker,Osteoarthritis of hip,76.52166666666668,28.38193333333334,Others
+29.7,78.0,Former smoker,Alzheimer's disease (disorder),78.48055952380955,29.222803968253967,Others
+28.4,87.0,Former smoker,Chronic obstructive bronchitis (disorder),78.33819684770991,28.92180307957444,Others
+27.3,113.0,Never smoker,Coronary Heart Disease,108.26833333333332,27.907666666666678,Hypertension
+30.1,71.0,Never smoker,"Hyperglycemia (disorder),Prediabetes,Chronic kidney disease stage 1 (disorder),Diabetic renal disease (disorder)",77.02213888888889,28.56770515873015,Others
+29.7,85.0,Former smoker,Alzheimer's disease (disorder),79.04280155873538,29.34138242737655,Others
+27.7,86.0,Never smoker,Hyperlipidemia,79.19798080720453,27.652092228604733,Others
+27.7,76.0,Never smoker,Hyperlipidemia,77.72241955874739,29.036006964448962,Others
+30.6,80.0,Never smoker,Coronary Heart Disease,80.37844816109859,28.20375150918684,Others
+27.4,75.0,Former smoker,Chronic congestive heart failure (disorder),77.21202777777776,27.89261612554112,Others
+29.3,74.0,Never smoker,Fracture of rib,77.4700671689422,27.212523587523584,Others
+27.3,84.0,Former smoker,Hyperlipidemia,80.45975799200804,27.529620393495378,Others
+27.6,81.0,Former smoker,Anemia (disorder),78.87100000000001,28.30299999999996,Others
+30.6,81.0,Never smoker,Chronic congestive heart failure (disorder),80.83545989384012,28.84515571163081,Others
+28.4,82.0,Never smoker,Recurrent rectal polyp,80.50108999922234,28.90101151427871,Others
+30.1,79.0,Former smoker,Chronic congestive heart failure (disorder),78.70606169740132,28.57021936160961,Others
+28.2,77.0,Former smoker,Atrial Fibrillation,80.44676034692107,29.691486894901608,Others
+28.0,75.0,Never smoker,"Prediabetes,Anemia (disorder)",77.72241955874739,29.036006964448962,Others
+32.8,79.0,Never smoker,Polyp of colon,79.85257531503584,28.986790516509647,Others
+30.2,83.0,Never smoker,Osteoarthritis of knee,80.31004731955674,29.12925918964077,Others
+30.3,70.0,Former smoker,Chronic pain,77.36269585458399,30.07462293262295,Body mass index 30+ - obesity (finding)
+19.3,76.0,Former smoker,Osteoporosis (disorder),80.37844816109859,28.20375150918684,Others
+21.7,110.0,Never smoker,Hypertension,99.35157142857142,26.80660018037518,Hypertension
+35.3,81.0,Never smoker,Anemia (disorder),81.33223196248197,30.219822619047612,Body mass index 30+ - obesity (finding)
+27.9,84.0,Never smoker,Prediabetes,79.72559523809522,28.357348809523806,Others
+33.4,72.0,Never smoker,Hyperlipidemia,77.72241955874739,29.036006964448962,Others
+30.3,76.0,Never smoker,"Hyperglycemia (disorder),Hypertriglyceridemia (disorder),Metabolic syndrome X (disorder),Prediabetes",80.44676034692107,29.691486894901608,Others
+30.2,82.0,Never smoker,Chronic congestive heart failure (disorder),79.73472319347319,29.020799861249838,Others
+30.2,85.0,Never smoker,"Neoplasm of prostate,Carcinoma in situ of prostate (disorder)",78.66595605783107,28.938074562937047,Others
+30.1,78.0,Never smoker,Chronic congestive heart failure (disorder),79.55918071239047,29.54247234179221,Others
+30.3,81.0,Former smoker,Familial Alzheimer's disease of early onset (disorder),78.70590476190476,29.98966031746032,Others
+30.2,80.0,Former smoker,Osteoarthritis of knee,80.99083333333336,29.591333333333317,Others
+27.8,76.0,Never smoker,Osteoporosis (disorder),80.93269566718234,28.5153563710652,Others
+27.3,84.0,Former smoker,Chronic congestive heart failure (disorder),83.68783333333334,28.780278571428582,Others
+27.6,82.0,Never smoker,Anemia (disorder),81.12966666666668,28.851416666666665,Others
+30.6,104.0,Never smoker,Alzheimer's disease (disorder),100.1903841991342,29.84855952380951,Hypertension
+30.5,81.0,Never smoker,"Hyperglycemia (disorder),Prediabetes",80.05942857142855,29.88806666666666,Others
+27.5,86.0,Never smoker,Hyperlipidemia,80.86166341991343,28.502561111111113,Others
+30.2,73.0,Never smoker,Atrial Fibrillation,79.88921482264507,28.890720376845362,Others
+27.8,75.0,Former smoker,Chronic intractable migraine without aura,78.23823304473304,28.76613507326006,Others
+28.8,76.0,Former smoker,Localized  primary osteoarthritis of the hand,78.7350440552459,29.74953817049847,Others
+40.5,80.0,Former smoker,Hyperlipidemia,80.945,36.1551,Body mass index 30+ - obesity (finding)
+30.2,77.0,Former smoker,History of appendectomy,77.63198321119793,29.36619493691529,Others
+27.4,80.0,Never smoker,Coronary Heart Disease,77.63198321119793,29.36619493691529,Others
+20.8,78.0,Never smoker,Hyperlipidemia,79.66706529581532,27.517170881895865,Others
+29.8,75.0,Never smoker,"Prediabetes,Anemia (disorder)",79.20077813852814,28.932474802974795,Others
+29.9,83.0,Former smoker,Localized  primary osteoarthritis of the hand,82.41579761904761,28.678189971139982,Others
+29.1,77.0,Never smoker,Alzheimer's disease (disorder),80.93269566718234,28.5153563710652,Others
+27.5,81.0,Never smoker,Atrial Fibrillation,76.30151810645873,28.74318451002674,Others
+28.1,80.0,Never smoker,Coronary Heart Disease,81.86064285714284,29.320921969696975,Others
+30.2,77.0,Former smoker,Hyperlipidemia,77.4475,29.340583333333324,Others
+25.6,71.0,Former smoker,"Miscarriage in first trimester,Blighted ovum,Prediabetes,Anemia (disorder)",79.10457142857142,25.86970000000001,Others
+30.1,88.0,Never smoker,Hyperlipidemia,80.73809357764699,29.853717207117782,Others
+30.1,85.0,Former smoker,Osteoarthritis of hip,80.94780768659446,28.83257987706736,Others
+30.3,85.0,Never smoker,Chronic congestive heart failure (disorder),81.97416666666665,30.597369860694872,Body mass index 30+ - obesity (finding)
+27.5,80.0,Former smoker,Diabetic retinopathy associated with type II diabetes mellitus (disorder),79.48072269113757,29.08575972862462,Others
+30.1,89.0,Never smoker,Smokes tobacco daily,82.06110714285717,33.3926126984127,Body mass index 30+ - obesity (finding)
+31.2,81.0,Never smoker,Alzheimer's disease (disorder),79.65457936507934,29.438456349206362,Others
+30.2,78.0,Never smoker,"Pulmonary emphysema (disorder),Polyp of colon",76.94805555555556,29.430541666666656,Others
+31.0,83.0,Never smoker,Atrial Fibrillation,79.65555760566406,29.860348394458992,Others
+27.7,85.0,Former smoker,Chronic congestive heart failure (disorder),82.4707419247419,31.3424002081252,Body mass index 30+ - obesity (finding)
+27.4,84.0,Never smoker,Osteoporosis (disorder),77.77200396825397,28.161106923631934,Others
+29.6,83.0,Never smoker,Laceration of hand,82.03724278499274,27.999204437229427,Others
+27.9,76.0,Never smoker,Diabetic retinopathy associated with type II diabetes mellitus (disorder),79.55135455095073,29.26341541806575,Others
+28.2,83.0,Never smoker,Alzheimer's disease (disorder),79.76199971000575,28.641420243487584,Others
+27.2,81.0,Never smoker,Smokes tobacco daily,79.52162945052885,29.046927303252303,Others
+27.7,78.0,Former smoker,Localized  primary osteoarthritis of the hand,78.70590476190476,29.98966031746032,Others
+27.9,74.0,Never smoker,"Chronic kidney disease stage 1 (disorder),Diabetic renal disease (disorder)",76.50333333333333,28.571354761904786,Others
+30.5,81.0,Never smoker,"Hyperglycemia (disorder),Hypertriglyceridemia (disorder),Metabolic syndrome X (disorder),Prediabetes",79.55918071239047,29.54247234179221,Others
+27.5,75.0,Never smoker,Localized  primary osteoarthritis of the hand,75.0455,27.556950000000008,Others
+30.2,75.0,Never smoker,Hyperglycemia (disorder),75.67914083066057,29.724014473761514,Others
+28.2,107.0,Former smoker,"Neoplasm of prostate,Carcinoma in situ of prostate (disorder)",105.399,28.258799999999972,Hypertension
+29.8,83.0,Former smoker,Metabolic syndrome X (disorder),80.45975799200804,27.529620393495378,Others
+28.3,85.0,Never smoker,Atrial Fibrillation,84.96233333333335,27.780747619047638,Others
+28.2,77.0,Never smoker,Hyperglycemia (disorder),81.66144458420762,28.36317722188622,Others
+30.6,83.0,Never smoker,Acute bacterial sinusitis (disorder),80.24494415306917,29.003113038758617,Others
+28.3,76.0,Never smoker,Localized  primary osteoarthritis of the hand,79.30034153415383,29.10441038756993,Others
+27.5,83.0,Former smoker,Chronic congestive heart failure (disorder),80.37844816109859,28.20375150918684,Others
+35.1,71.0,Former smoker,Anemia (disorder),76.61500653461604,28.683041570112902,Others
+28.2,84.0,Never smoker,Stroke,80.83545989384012,28.84515571163081,Others
+30.5,74.0,Former smoker,"Hyperglycemia (disorder),Prediabetes",76.381,28.636495238095243,Others
+27.9,84.0,Former smoker,Alzheimer's disease (disorder),80.96545851370854,29.05766424963924,Others
+33.5,77.0,Never smoker,Atrial Fibrillation,79.91576190476191,30.115039682539678,Body mass index 30+ - obesity (finding)
+30.3,74.0,Former smoker,Chronic congestive heart failure (disorder),76.30151810645873,28.74318451002674,Others
+28.600000000000005,83.0,Never smoker,"Hypertriglyceridemia (disorder),Metabolic syndrome X (disorder),Anemia (disorder)",80.62816666666667,28.22076666666666,Others
+29.9,85.0,Never smoker,Hyperlipidemia,80.16594444444443,30.83976666666667,Body mass index 30+ - obesity (finding)
+29.3,75.0,Never smoker,Prediabetes,79.41476806200338,28.73122848817849,Others
+28.0,77.0,Never smoker,Alzheimer's disease (disorder),76.61500653461604,28.683041570112902,Others
+30.2,81.0,Former smoker,Osteoarthritis of hip,81.42816666666667,29.62702499999996,Others
+27.8,80.0,Never smoker,Coronary Heart Disease,82.49451866070864,28.275947361957968,Others
+31.5,88.0,Former smoker,Body mass index 30+ - obesity (finding),81.92062155981517,28.739583794341474,Others
+27.7,84.0,Never smoker,Chronic congestive heart failure (disorder),82.44486988011988,29.178573354423357,Others
+30.2,85.0,Former smoker,Body mass index 30+ - obesity (finding),89.74780952380951,30.847700000000003,Body mass index 30+ - obesity (finding)
+30.3,87.0,Never smoker,Hyperlipidemia,82.6831666666667,29.521149999999988,Others
+44.1,98.0,Never smoker,Hypertension,78.7350440552459,29.74953817049847,Others
+24.4,76.0,Never smoker,Coronary Heart Disease,79.76187698412699,27.79476341991342,Others
+28.3,82.0,Former smoker,"Neoplasm of prostate,Carcinoma in situ of prostate (disorder)",77.63198321119793,29.36619493691529,Others
+30.6,81.0,Former smoker,Familial Alzheimer's disease of early onset (disorder),79.95633333333332,28.748473881673895,Others
+27.5,77.0,Never smoker,Atrial Fibrillation,77.63198321119793,29.36619493691529,Others
+30.1,78.0,Never smoker,Body mass index 30+ - obesity (finding),78.98065669964032,28.318042155061285,Others
+27.9,77.0,Never smoker,Alzheimer's disease (disorder),77.94291197691197,28.822652666777653,Others
+28.3,85.0,Never smoker,"Prediabetes,Anemia (disorder)",84.805,29.84926666666669,Others
+27.9,88.0,Former smoker,Osteoarthritis of knee,87.925,26.956116666666695,Others
+28.3,80.0,Former smoker,Hyperlipidemia,78.7350440552459,29.74953817049847,Others
+30.4,87.0,Never smoker,Anemia (disorder),81.66144458420762,28.36317722188622,Others
+28.8,85.0,Former smoker,Recurrent rectal polyp,82.93981529581532,28.983783333333335,Others
+27.8,80.0,Never smoker,Closed fracture of hip,80.62816666666667,28.22076666666666,Others
+27.7,83.0,Never smoker,Hyperlipidemia,77.38892063492064,25.41320079365079,Others
+28.6,78.0,Former smoker,Osteoporosis (disorder),77.29573484848483,29.467956349206357,Others
+30.0,86.0,Never smoker,Chronic congestive heart failure (disorder),79.706009018759,28.5829724025974,Others
+27.7,79.0,Never smoker,Coronary Heart Disease,79.04280155873538,29.34138242737655,Others
+27.8,74.0,Former smoker,Chronic congestive heart failure (disorder),76.65614958897314,29.167202021589528,Others
+27.4,80.0,Never smoker,Atrial Fibrillation,79.8384577922078,27.48517286324786,Others
+28.1,79.0,Never smoker,Chronic congestive heart failure (disorder),79.85257531503584,28.986790516509647,Others
+31.5,78.0,Former smoker,Suspected lung cancer (situation),78.98065669964032,28.318042155061285,Others
+30.2,69.0,Never smoker,Familial Alzheimer's disease of early onset (disorder),74.05608333333335,29.97721904761904,Others
+29.0,83.0,Former smoker,"Chronic kidney disease stage 1 (disorder),Diabetic renal disease (disorder),Neuropathy due to type 2 diabetes mellitus (disorder)",81.59658080808082,29.10786211566212,Others
+27.3,88.0,Never smoker,Chronic congestive heart failure (disorder),85.67277705627707,28.272964254200463,Others
+30.5,76.0,Former smoker,Chronic congestive heart failure (disorder),78.93938736263735,29.88086504329005,Others
+27.9,82.0,Never smoker,Sinusitis (disorder),80.56383333333332,28.20142023809524,Others
+30.5,81.0,Current every day smoker,"Recurrent rectal polyp,Anemia (disorder)",80.83545989384012,28.84515571163081,Others
+32.9,84.0,Never smoker,Pulmonary emphysema (disorder),80.83545989384012,28.84515571163081,Others
+27.5,82.0,Never smoker,Prediabetes,77.63198321119793,29.36619493691529,Others
+33.7,78.0,Former smoker,Chronic pain,77.04908152958153,29.799259812409808,Others
+21.9,87.0,Never smoker,Osteoporosis (disorder),82.35305335143113,29.198400628117152,Others
+30.5,82.0,Former smoker,Chronic congestive heart failure (disorder),80.50108999922234,28.90101151427871,Others
+30.4,77.0,Never smoker,Alzheimer's disease (disorder),78.98065669964032,28.318042155061285,Others
+27.9,83.0,Never smoker,Recurrent rectal polyp,76.14814285714287,27.684819047619047,Others
+28.0,105.0,Former smoker,Chronic obstructive bronchitis (disorder),103.7715946969697,28.555666666666657,Hypertension
+28.3,83.0,Former smoker,Osteoarthritis of hip,80.48769885425033,27.928174208402535,Others
+27.4,83.0,Former smoker,Chronic intractable migraine without aura,80.64632867132866,28.623075264665903,Others
+30.2,107.0,Never smoker,Osteoarthritis of knee,107.42933333333335,28.52289999999998,Hypertension
+27.0,73.0,Never smoker,"Neoplasm of prostate,Carcinoma in situ of prostate (disorder)",77.63198321119793,29.36619493691529,Others
+27.7,79.0,Former smoker,Coronary Heart Disease,78.23823304473304,28.76613507326006,Others
+28.1,80.0,Never smoker,"Chronic kidney disease stage 1 (disorder),Diabetic renal disease (disorder)",78.51428571428569,27.721066269841263,Others
+30.1,78.0,Never smoker,Osteoporosis (disorder),77.98390476190477,28.550172619047643,Others
+31.8,80.0,Former smoker,Impacted molars,80.44676034692107,29.691486894901608,Others
+28.1,81.0,Never smoker,Atrial Fibrillation,77.52011111111113,28.46724642857143,Others
+28.6,81.0,Never smoker,Osteoarthritis of hip,79.48072269113757,29.08575972862462,Others
+24.2,82.0,Former smoker,Hyperlipidemia,77.68555447330445,28.737364682539702,Others
+30.2,106.0,Former smoker,"Chronic kidney disease stage 1 (disorder),Diabetic renal disease (disorder)",100.34,30.011618421052614,Body mass index 30+ - obesity (finding)
+28.7,82.0,Former smoker,Coronary Heart Disease,81.12150000000001,28.589553571428542,Others
+30.3,74.0,Never smoker,Anemia (disorder),79.72714754689756,30.48663008658008,Body mass index 30+ - obesity (finding)
+30.2,102.0,Former smoker,Gout,101.58266666666667,24.76436666666665,Hypertension
+27.3,85.0,Former smoker,"Chronic kidney disease stage 1 (disorder),Diabetic renal disease (disorder),Laceration of hand",82.1870018037518,28.814730303030302,Others
+30.0,82.0,Never smoker,Pulmonary emphysema (disorder),78.98065669964032,28.318042155061285,Others
+30.5,86.0,Former smoker,Anemia (disorder),78.51428571428569,27.721066269841263,Others
+27.5,76.0,Former smoker,Chronic congestive heart failure (disorder),79.14784884559887,28.899539826839828,Others
+30.0,76.0,Never smoker,"Recurrent rectal polyp,Anemia (disorder)",78.7350440552459,29.74953817049847,Others
+28.2,105.0,Never smoker,"Chronic kidney disease stage 1 (disorder),Diabetic renal disease (disorder)",106.76333333333332,29.75314285714285,Hypertension
+30.8,77.0,Never smoker,Osteoarthritis of knee,77.475,30.288892857142873,Body mass index 30+ - obesity (finding)
+30.5,83.0,Never smoker,Localized  primary osteoarthritis of the hand,80.08939213564219,30.033299301841957,Body mass index 30+ - obesity (finding)
+29.4,72.0,Never smoker,Localized  primary osteoarthritis of the hand,72.42582539682539,28.498757142857148,Others
+30.4,74.0,Never smoker,Chronic congestive heart failure (disorder),77.9323611111111,28.213309126984136,Others
+25.7,79.0,Former smoker,Anemia (disorder),80.93269566718234,28.5153563710652,Others
+27.6,78.0,Former smoker,Coronary Heart Disease,78.23823304473304,28.76613507326006,Others
+27.6,82.0,Never smoker,Hyperlipidemia,79.76199971000575,28.641420243487584,Others
+29.4,86.0,Never smoker,Osteoarthritis of knee,83.53837612387612,29.120903188478188,Others
+30.6,85.0,Former smoker,Injury of tendon of the rotator cuff of shoulder,80.25615584415584,29.06501955266952,Others
+28.5,81.0,Never smoker,Recurrent rectal polyp,80.04213246057012,29.265473137595123,Others
+28.1,78.0,Never smoker,Osteoporosis (disorder),78.98065669964032,28.318042155061285,Others
+31.4,87.0,Never smoker,Anemia (disorder),79.76199971000575,28.641420243487584,Others
+30.1,83.0,Former smoker,Body mass index 30+ - obesity (finding),99.35157142857142,26.80660018037518,Hypertension
+28.9,83.0,Never smoker,Anemia (disorder),79.88921482264507,28.890720376845362,Others
